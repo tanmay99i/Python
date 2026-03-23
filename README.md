@@ -1,2 +1,2 @@
 # Python
-Python encryptor decryptor 
+Python cool projects coming soon
