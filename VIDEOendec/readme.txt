@@ -26,7 +26,7 @@ now make a good and strong password
 
 
 
-now your video is encrypted successfully delete the original video and if you want to decrypt then you can also decked your video by typing the password
+now your video is encrypted successfully delete the original video and if you want to decrypt then you can also decrypt your video by typing the password
 
 
 
