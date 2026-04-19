@@ -28,6 +28,6 @@ now make a good and strong password
 
 now your video is encrypted successfully delete the original video and if you want to decrypt then you can also decrypt your video by typing the password
 
-
+note : large videos may take time there are two types of encryption options given in this
 
 credits @Tanmay99i #Tanmay99i #Video #Mp4  #Encryption #endec #python
